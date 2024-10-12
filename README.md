@@ -23,12 +23,12 @@ Esta es una aplicación sencilla creada con **Streamlit** y **PyMuPDF** para com
 
 1. Clona este repositorio o descarga los archivos.
    
-2. Navega al directorio donde se encuentra el archivo principal de la aplicación (`app_comparar_pdfs_doble_columna.py`).
+2. Navega al directorio donde se encuentra el archivo principal de la aplicación (`app.py`).
 
 3. Ejecuta el siguiente comando para iniciar la aplicación:
 
    ```bash
-   streamlit run app_comparar_pdfs_doble_columna.py
+   streamlit run app.py
    ```
 
 4. Esto abrirá una ventana en tu navegador donde podrás cargar los archivos PDF y ver sus diferencias.
